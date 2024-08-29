@@ -1,4 +1,5 @@
-Lost & Found
+#**Lost & Found**
+
 Lost & Found is a web-based application designed to help users find lost items or report found items. This application provides a platform where users can post details about lost or found items, making it easier for the community to help reunite owners with their belongings.
 
 Table of Contents
